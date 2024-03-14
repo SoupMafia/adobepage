@@ -42,6 +42,10 @@ header {
   text-decoration: none;
 }
 
+.logo img {
+    scale: 50%;
+}
+
 .navigation {
   display: flex;
   justify-content: center;
